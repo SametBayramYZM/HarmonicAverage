@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\bin\Debug\HarmonicAverage.exe.config
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\bin\Debug\HarmonicAverage.exe
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\bin\Debug\HarmonicAverage.pdb
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.HarmonicAverage.resources
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.Properties.Resources.resources
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.exe
+C:\Users\Samet\source\repos\HarmonicAverage\HarmonicAverage\obj\Debug\HarmonicAverage.pdb
